@@ -1,2 +1,2 @@
 #!/bin/bash
-heasd -n 3 | tail -n 1
+heasd -n 3 iacta | tail -n 1
