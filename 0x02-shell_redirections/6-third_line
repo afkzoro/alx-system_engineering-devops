@@ -1,0 +1,2 @@
+#!/bin/bash
+heasd -n 3 | tail -n 1
