@@ -1,6 +1,10 @@
 # 0x19-postmortem
 Using one of the web stack debugging project issue or an outage you have personally face, write a postmortem. Most of you will never have faced an outage, so just get creative and invent your own :)
 
+<p align="center">
+  <img width="460" height="500" src="https://github.com/afkzoro/alx-system_engineering-devops/blob/master/0x19-postmortem/assets/download.png">
+</p>
+
 #  Summary
 On February 28, 2023, our company's application server experienced a significant outage that lasted for approximately 3 hours, resulting in a complete service disruption for our customers. The issue was caused by a hardware failure in one of the server's components.
 
