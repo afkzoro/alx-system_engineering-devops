@@ -40,3 +40,6 @@ To prevent similar issues from occurring in the future, the IT team will be impl
 
 * The team will be conducting regular hardware inspections and replacements to prevent future hardware failures.
 
+<hr style="height: 3px;"/>
+
+> The outage highlighted the importance of having a robust disaster recovery plan in place and the need for regular hardware inspections and replacements. It also underscored the importance of having effective communication channels and escalation procedures in place to ensure that issues are addressed promptly and effectively. Moving forward, the IT team will be focusing on continuously improving our infrastructure and processes to prevent similar outages from occurring in the future.
