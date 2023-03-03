@@ -25,7 +25,7 @@ The root cause of the outage was a **hardware failure** in one of the server's c
 # Corrective and preventive measures
 
 <p align="center">
-  <img width="460" height="300" src="/assets/images/meme-dev-humor-when-the-server-is-down-279.jpg>
+  <img width="460" height="300" src="/assets/images/meme-dev-humor-when-the-server-is-down-279.jpg
 </p>
 
 To prevent similar issues from occurring in the future, the IT team will be implementing the following remediations:
