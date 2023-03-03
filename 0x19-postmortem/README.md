@@ -24,7 +24,7 @@ The root cause of the outage was a **hardware failure** in one of the server's c
 
 # Corrective and preventive measures
 <p align="center">
-  <img width="460" height="300" src="https://github.com/afkzoro/alx-system_engineering-devops/blob/master/0x19-postmortem/assets/meme-dev-humor-when-the-server-is-down-279.jpg">
+  <img width="460" height="500" src="https://github.com/afkzoro/alx-system_engineering-devops/blob/master/0x19-postmortem/assets/meme-dev-humor-when-the-server-is-down-279.jpg">
 </p>
 
 
