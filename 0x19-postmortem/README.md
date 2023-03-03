@@ -23,6 +23,7 @@ On February 28, 2023, our company's application server experienced a significant
 The root cause of the outage was a **hardware failure** in one of the server's components. The server's CPU faced damage due voltage spikes. This failure resulted in the server becoming unresponsive and unable to serve requests.
 
 # Corrective and preventive measures
+
 <p align="center">
   <img width="460" height="300" src="/assets/images/meme-dev-humor-when-the-server-is-down-279.jpg>
 </p>
